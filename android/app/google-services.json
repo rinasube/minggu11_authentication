@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950129297604",
+    "project_id": "minggu11-dcacc",
+    "storage_bucket": "minggu11-dcacc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950129297604:android:85f0efa2d5af6bd883a191",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950129297604-i0uf4b71701h0hk62drkli2r2ovq52vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDPXVMMTJFv0cIKCgNhon-o4xOPEqR7As"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950129297604-i0uf4b71701h0hk62drkli2r2ovq52vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
